@@ -94,7 +94,7 @@ All external data used in accordance with the AmericasNLP 2026 rules permitting 
 | Pywirrarika (Wixárika) | [pywirrarika/wixarika-spanish](https://github.com/pywirrarika/wixarika-spanish) | — |
 | Axolotl (Nahuatl) | [hackathon-pln-es/Axolotl-Spanish-Nahuatl](https://huggingface.co/datasets/hackathon-pln-es/Axolotl-Spanish-Nahuatl) | Gutierrez-Vasques et al., LREC 2016 |
 | Feldman Corpus (Bribri) | [rolandocoto/bribri-coling2020](https://github.com/rolandocoto/bribri-coling2020) | Feldman & Coto-Solano, LREC 2020 |
-| Iikim Translator (Maya) | Iikim Translator project | — |
+| Iikim Translator (Maya) | [Iikim Translator project](https://github.com/RIKEN-DKO/iikim_translator) | — |
 
 ---
 
