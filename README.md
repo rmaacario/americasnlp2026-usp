@@ -1,6 +1,6 @@
 # USP at AmericasNLP 2026 — Culturally-Aware Image Captioning for Indigenous Languages
 
-**USP team submission for the [AmericasNLP 2026 Shared Task](http://americasnlp.github.io/) on Culturally Relevant Image Captioning for Indigenous Languages.**
+**USP team submission for the [AmericasNLP 2026 Shared Task]([http://americasnlp.github.io/](https://github.com/AmericasNLP/americasnlp2026)) on Culturally Relevant Image Captioning for Indigenous Languages.**
 
 We propose a two-stage cascade: **Qwen3-VL-8B-Instruct** generates culturally-prompted Spanish captions (zero-shot), which are then translated into each target language by a **fine-tuned NLLB-200-distilled-600M** model.
 
