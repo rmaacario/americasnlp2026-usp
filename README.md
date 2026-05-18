@@ -90,11 +90,11 @@ All external data used in accordance with the AmericasNLP 2026 rules permitting 
 
 | Dataset | Source | Citation |
 |---------|--------|----------|
-| Jojajovai (Guaraní) | [pln-fing-udelar/jojajovai](https://github.com/pln-fing-udelar/jojajovai) | Chiruzzo et al., LREC 2022 |
-| Pywirrarika (Wixárika) | [pywirrarika/wixarika-spanish](https://github.com/pywirrarika/wixarika-spanish) | — |
-| Axolotl (Nahuatl) | [hackathon-pln-es/Axolotl-Spanish-Nahuatl](https://huggingface.co/datasets/hackathon-pln-es/Axolotl-Spanish-Nahuatl) | Gutierrez-Vasques et al., LREC 2016 |
-| Feldman Corpus (Bribri) | [rolandocoto/bribri-coling2020](https://github.com/rolandocoto/bribri-coling2020) | Feldman & Coto-Solano, LREC 2020 |
-| Iikim Translator (Maya) | [Iikim Translator project](https://github.com/RIKEN-DKO/iikim_translator) | Rangel and Kobayashi, LREC 2024 |
+| Jojajovai (Guaraní) | [pln-fing-udelar/jojajovai](https://github.com/pln-fing-udelar/jojajovai) | Chiruzzo et al., 2022 |
+| Pywirrarika (Wixárika) | [pywirrarika/wixarika-spanish](https://github.com/pywirrarika/wixarika-spanish) | Mager et al., 2018 |
+| Axolotl (Nahuatl) | [hackathon-pln-es/Axolotl-Spanish-Nahuatl](https://huggingface.co/datasets/hackathon-pln-es/Axolotl-Spanish-Nahuatl) | Gutierrez-Vasques et al., 2016 |
+| Feldman Corpus (Bribri) | [rolandocoto/bribri-coling2020](https://github.com/rolandocoto/bribri-coling2020) | Feldman & Coto-Solano, 2020 |
+| Iikim Translator (Maya) | [Iikim Translator project](https://github.com/RIKEN-DKO/iikim_translator) | Rangel and Kobayashi, 2024 |
 
 ---
 
